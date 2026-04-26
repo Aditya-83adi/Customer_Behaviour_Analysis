@@ -14,7 +14,7 @@ customer-behaviour-analysis/
 ├── Customer_Shopping_Analysis.ipynb     # Python EDA & data cleaning notebook
 ├── Customer_behaviour_sql_queries.sql   # All SQL business queries
 ├── customer_shopping_behavior.csv       # Raw dataset (3,900 rows, 18 columns)
-└── dashboard_screenshot.png            # Power BI dashboard preview
+└── dashboard.png            # Power BI dashboard preview
 
 📊 Dashboard Preview
 Key KPIs at a glance:
@@ -71,7 +71,7 @@ Columns: 18 features including Age, Gender, Category, Purchase Amount, Subscript
 
 Clone the repository
 
-bashgit clone https://github.com/Aditya-83adi/customer-behaviour-analysis.git
+bashgit clone https://github.com/Aditya-83adi/Customer_Behaviour_Analysis.git
 
 Open Customer_Shopping_Analysis.ipynb in Jupyter Notebook
 Run all cells (update the MySQL credentials in the connection cell if needed)
