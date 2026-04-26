@@ -17,6 +17,8 @@ customer-behaviour-analysis/
 └── dashboard.png            # Power BI dashboard preview
 
 📊 Dashboard Preview
+
+![Customer Behaviour Dashboard](dashboard.png)
 Key KPIs at a glance:
 
 💰 Average Purchase: $59.76
